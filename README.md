@@ -21,7 +21,8 @@
 - `more file` – Output the contents of `file`  
 - `head file` – Output the first 10 lines of `file`  
 - `tail file` – Output the last 10 lines of `file`  
-- `tail -f file` – Output the contents of `file` as it grows, starting with the last 10 lines  
+- `tail -f file` – Output the contents of `file` as it grows, starting with the last 10 lines
+- `date`-current date
 
 ## Process Management
 
@@ -71,4 +72,5 @@
 - `Ctrl+D` – Log out of current session, similar to `exit`  
 - `Ctrl+W` – Erases one word in the current line  
 - `Ctrl+U` – Erases the whole line  
-- `Ctrl+R` – Type to bring up a recent command  
+- `Ctrl+R` – Type to bring up a recent command
+  
